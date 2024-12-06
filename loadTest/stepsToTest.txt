@@ -5,5 +5,4 @@
     - ab -n 200 -c 20 https://cryptoroll.su/
 5. https://ping-admin.com/?lang=ru
 6. https://check-host.net/check-http?lang=ru
-7. tell how to fix issues with load
-8. tell how to protect from bruteforce
+7. tell how to protect from bruteforce

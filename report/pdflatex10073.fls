@@ -1,0 +1,4 @@
+PWD /home/incept1on/ITMO/TiMP/6lab/report
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
